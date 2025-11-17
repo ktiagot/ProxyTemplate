@@ -7,7 +7,7 @@ Programa em Python para automatizar a montagem de imagens em PDFs A4 com layout 
 - **Layout 3x3**: Organiza 9 imagens em uma página A4
 - **Processamento em lote**: Processa quantas imagens quiser, criando múltiplos PDFs automaticamente
 - **Dois modos de processamento**:
-  - **Com sangria**: Imagens já incluem a margem extra (6,85 x 9,35 cm)
+  - **Com sangria**: Imagens já incluem a margem extra (6,85 x 9,35 cm - padrão das imagens que você encontra no mpcfill.com e outras proxies online)
   - **Sem sangria**: Imagens estão no tamanho final (6,35 x 8,89 cm) - o programa adiciona a sangria automaticamente
 - **Redimensionamento automático**: Ajusta imagens para as dimensões corretas
 - **Linhas de guia**: Marca as bordas de corte com linhas vermelhas
