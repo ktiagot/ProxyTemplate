@@ -42,7 +42,7 @@ python montador_imagens.py
 
 ### Opção 2: Usar o executável (Windows)
 
-1. Baixe o arquivo `MontadorImagens.exe` da seção [Releases](https://github.com/seu-usuario/ProxyTemplate/releases)
+1. Baixe o arquivo `MontadorImagens.exe` [aqui](https://github.com/ktiagot/ProxyTemplate/blob/master/dist/MontadorImagens.exe)
 2. Execute o arquivo diretamente (não precisa do Python instalado)
 
 ## 🔨 Como criar o executável
