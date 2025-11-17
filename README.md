@@ -14,60 +14,15 @@ Programa em Python para automatizar a montagem de imagens em PDFs A4 com layout 
 - **Interface gráfica**: Seleção fácil de arquivos e pasta de saída via diálogos do Windows
 - **Executável standalone**: Pode ser compilado em um único arquivo .exe
 
-## 📐 Dimensões
-
-- **Imagem com sangria**: 6,85cm x 9,35cm
-- **Imagem final (após corte)**: 6,35cm x 8,89cm
-- **Sangria**: 0,25cm em cada lado (largura) e 0,23cm (altura)
-
 ## 🚀 Instalação
 
-### Opção 1: Executar o script Python
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/ProxyTemplate.git
-cd ProxyTemplate
-```
-
-2. Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-3. Execute o programa:
-```bash
-python montador_imagens.py
-```
-
-### Opção 2: Usar o executável (Windows)
+### Usar o executável (Windows)
 
 1. Baixe o arquivo `MontadorImagens.exe` [aqui](https://github.com/ktiagot/ProxyTemplate/blob/master/dist/MontadorImagens.exe) e clique no terceiro botão <img width="100" height="46" alt="image" src="https://github.com/user-attachments/assets/e89e52cd-40e1-432d-b33b-05e4c6ae318a" />
 
 2. Execute o arquivo diretamente (não precisa do Python instalado)
 
-## 🔨 Como criar o executável
-
-Se você quiser criar seu próprio executável:
-
-1. Instale as dependências (incluindo PyInstaller):
-```bash
-pip install -r requirements.txt
-```
-
-2. Execute o script de build:
-```bash
-python build_exe.py
-```
-
-O executável será criado em `dist/MontadorImagens.exe`
-
-**Alternativas:**
-- Usar PyInstaller diretamente: `pyinstaller --name=MontadorImagens --onefile --windowed montador_imagens.py`
-- Usar o arquivo .spec: `pyinstaller MontadorImagens.spec`
-
-Para mais detalhes, consulte [BUILD.md](BUILD.md)
-
+   
 ## 📖 Como usar
 
 1. **Execute o programa** (script Python ou executável)
