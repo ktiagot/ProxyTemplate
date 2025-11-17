@@ -18,7 +18,7 @@ Programa em Python para automatizar a montagem de imagens em PDFs A4 com layout 
 
 ### Usar o executável (Windows)
 
-1. Acesse a [essa página aqui](https://github.com/ktiagot/ProxyTemplate/blob/master/dist/MontadorImagens.exe) e clique no terceiro botão <img width="100" height="46" alt="image" src="https://github.com/user-attachments/assets/e89e52cd-40e1-432d-b33b-05e4c6ae318a" />
+1. Acesse a [essa página aqui](https://github.com/ktiagot/ProxyTemplate/blob/master/dist/MontadorImagens.exe) e clique no terceiro botão para baixar o executável <img width="100" height="46" alt="image" src="https://github.com/user-attachments/assets/e89e52cd-40e1-432d-b33b-05e4c6ae318a" />
 
 2. Execute o arquivo diretamente (não precisa do Python instalado)
 
